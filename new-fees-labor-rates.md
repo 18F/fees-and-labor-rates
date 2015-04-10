@@ -1,4 +1,4 @@
-### How to Change Rates and Fees as a Part of FAS
+### 18F: Fee and Rate Change Strategy for Individual Business Line
 
 #### Background
 
@@ -9,3 +9,25 @@
 Hypothesize revenue strategy, project operating expenses, project business volumes, estimate fees, compose justification memorandum, seek feedback and recommendation from budget / finance, submit to leadership for approval, if approved, implement revenue strategy, collect data, and validate / invalidate original hypothesis.
 
 #### Key Elements Needed for Justification
+
+* Description of the Business Line
+ * ASF Allowability
+ * Suitability within ASF and GSA Portfolio / Strategy
+* Business Volume Projections
+ * GSA-Provided Services
+ * Goods/Services Sold
+* Operating Expense Projections
+ * Direct
+  * Labor
+  * Non-labor
+ * Indirect
+  * Business Line Overhead
+  * Allocation of 18F Overhead
+  * Allocation of GSA Overhead
+* Pricing Strategy and Demand Considerations
+ * Current Customer Expectations
+ * Non-public Comparables
+ * Price Elasticity of Demand (demand = elastic vs. inelastic)
+* Multi-Year Pro Forma
+ * Full Recoverability Target Date
+ * Assumptions and Caveats
