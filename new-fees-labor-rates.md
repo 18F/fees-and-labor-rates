@@ -18,12 +18,12 @@ Hypothesize revenue strategy, project operating expenses, project business volum
  * Goods/Services Sold
 * Operating Expense Projections
  * Direct
-   * Labor
-   * Non-labor
+    * Labor
+    * Non-labor
  * Indirect
-   * Business Line Overhead
-   * Allocation of 18F Overhead
-   * Allocation of GSA Overhead
+    * Business Line Overhead
+    * Allocation of 18F Overhead
+    * Allocation of GSA Overhead
 * Pricing Strategy and Demand Considerations
  * Current Customer Expectations
  * Non-public Comparables
